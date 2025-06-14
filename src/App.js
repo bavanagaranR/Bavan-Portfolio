@@ -1,5 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
+
 import Allpage from './components/Allpage';
 import Resumeimg from './components/Resumeimg';
 import { Dataprovider } from './alldata/data';

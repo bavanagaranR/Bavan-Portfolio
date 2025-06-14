@@ -3,7 +3,8 @@
   "name": "bavan-potfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/bavanagaranR/Bavan-Portfolio.git",
+  "homepage": "https://bavanagaranr.github.io/Bavan-Portfolio",
+
 
   "dependencies": {
     "@heroicons/react": "^2.1.3",
